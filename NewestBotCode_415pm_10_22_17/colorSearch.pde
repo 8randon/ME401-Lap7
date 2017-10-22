@@ -177,6 +177,6 @@ void colorSearch(){
       // Maybe run through irDetect again ro re-orient bot
   }
   
-  Serial.print("WE DONE")
+  Serial.print("WE DONE");
 }
 
